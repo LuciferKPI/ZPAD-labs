@@ -1,0 +1,6 @@
+venv2/
+vhi_data/
+*.csv
+*.zip
+*.txt
+.ipynb_checkpoints/
