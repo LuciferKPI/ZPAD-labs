@@ -13,6 +13,7 @@ __pycache__/
 venv/
 
 # Файли з даними (динамічні або великі)
+!requirements.txt
 *.txt
 *.csv
 *.json
