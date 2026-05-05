@@ -1,0 +1,26 @@
+# Тимчасові папки збірки CMake
+build/
+bin/
+obj/
+
+# Кеш та конфігурації CMake (на випадок, якщо збірка запускалася в корені)
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Виконувані файли програми
+ZPAD_Lab6
+
+# Налаштування редакторів (VS Code)
+.vscode/
+
+# Системні файли Windows/Linux
+.DS_Store
+Thumbs.db
+
+# Тимчасові медіафайли, які ти міг використовувати для тестів камери
+*.mp4
+*.avi
+*.jpg
+*.png
